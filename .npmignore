@@ -1,0 +1,5 @@
+__tests__
+tsconfig.json
+.eslint.json
+*.lock
+src
